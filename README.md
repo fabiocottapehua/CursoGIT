@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # MAIN
-=======
 violeta
->>>>>>> violeta
